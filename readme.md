@@ -1,4 +1,4 @@
-## Just Java app
+## JustJava app
 
 Basic features:
 ----------------
