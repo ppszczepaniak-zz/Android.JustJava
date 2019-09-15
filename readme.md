@@ -2,7 +2,8 @@
 
 Basic features:
 ----------------
-- toasts
+- Toasts
+- Intents
 - ScrollView
 - CheckBoxes
 - TextViews
