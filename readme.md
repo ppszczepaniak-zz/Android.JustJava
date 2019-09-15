@@ -4,7 +4,7 @@ Basic features:
 ----------------
 - toasts
 - ScrollView
-- CeckBoxes
+- CheckBoxes
 - TextViews
 - LinearLayout
 - Buttons
